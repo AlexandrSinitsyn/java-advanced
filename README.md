@@ -13,3 +13,5 @@
 ### 6. [Итеративный параллелизм](https://github.com/AlexandrSinitsyn/java-andvanced/tree/main/solutions/java-solutions/info/kgeorgiy/ja/sinitsyn/concurrent)
 
 ### 7. [Параллельный запуск](https://github.com/AlexandrSinitsyn/java-andvanced/tree/main/solutions/java-solutions/info/kgeorgiy/ja/sinitsyn/concurrent)
+
+### 8. [Web Crawler](https://github.com/AlexandrSinitsyn/java-andvanced/tree/main/solutions/java-solutions/info/kgeorgiy/ja/sinitsyn/crawler)
