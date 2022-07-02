@@ -1,4 +1,4 @@
-package walk;
+package info.kgeorgiy.ja.sinitsyn.walk;
 
 public class WalkException extends RuntimeException {
 

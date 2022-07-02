@@ -1,4 +1,4 @@
-package student;
+package info.kgeorgiy.ja.sinitsyn.student;
 
 import info.kgeorgiy.java.advanced.student.*;
 

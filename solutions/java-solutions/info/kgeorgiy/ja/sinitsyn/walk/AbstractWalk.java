@@ -1,4 +1,4 @@
-package walk;
+package info.kgeorgiy.ja.sinitsyn.walk;
 
 import java.io.*;
 import java.math.BigInteger;

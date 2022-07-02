@@ -1,4 +1,4 @@
-package arrayset;
+package info.kgeorgiy.ja.sinitsyn.arrayset;
 
 import java.util.*;
 
