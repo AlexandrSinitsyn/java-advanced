@@ -21,3 +21,5 @@
 ### 10. [Физические лица](https://github.com/AlexandrSinitsyn/java-andvanced/tree/main/solutions/java-solutions/info/kgeorgiy/ja/sinitsyn/bank)
 
 ### 11. [HelloNonblockingUDP](https://github.com/AlexandrSinitsyn/java-andvanced/tree/main/solutions/java-solutions/info/kgeorgiy/ja/sinitsyn/hello)
+
+### 12. [TextStatistics](https://github.com/AlexandrSinitsyn/java-andvanced/tree/main/solutions/java-solutions/info/kgeorgiy/ja/sinitsyn/i18n)

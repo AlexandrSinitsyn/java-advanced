@@ -20,4 +20,8 @@ open module info.kgeorgiy.ja.sinitsyn {
 
     exports info.kgeorgiy.ja.sinitsyn.bank.tests
             to junit;
+
+    exports info.kgeorgiy.ja.sinitsyn.i18n.stats;
+    exports info.kgeorgiy.ja.sinitsyn.i18n
+            to junit;
 }
