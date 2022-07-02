@@ -19,4 +19,5 @@ open module base {
     exports info.kgeorgiy.java.advanced.concurrent;
     exports info.kgeorgiy.java.advanced.mapper;
     exports info.kgeorgiy.java.advanced.crawler;
+    exports info.kgeorgiy.java.advanced.hello;
 }
