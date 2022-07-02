@@ -14,4 +14,6 @@ open module base {
 
     exports info.kgeorgiy.java.advanced.student;
     exports info.kgeorgiy.java.advanced.implementor;
+    exports info.kgeorgiy.java.advanced.concurrent;
+    exports info.kgeorgiy.java.advanced.mapper;
 }
